@@ -1,0 +1,6 @@
+# ignore executables without extension https://stackoverflow.com/a/53416684/4530144
+*
+!/**/
+!*.*
+
+.DS_Store
